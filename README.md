@@ -14,5 +14,9 @@ There are two types of enemies:
 *Goombas
 *Koopas
 
+A snapshot of the game:
+
+<img src="snapshot.jpg" alt="Italian Trulli">
+
 
 The game is written in Python and uses the Pygame game engine.
