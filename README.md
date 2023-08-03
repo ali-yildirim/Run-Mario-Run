@@ -2,6 +2,7 @@
 
 `Run Mario Run` is an endless-runner-style game, where players try to dodge or neutralize enemies and last as long as possible. The player can collect coins and use these coins to throw fireballs or iceballs to kill enemies.  
 
+
 There are basically two types of throwables:
 *Fireball
 *Iceball
@@ -14,3 +15,4 @@ There are two types of enemies:
 *Koopas
 
 
+The game is written in Python and uses the Pygame game engine.
