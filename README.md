@@ -4,15 +4,15 @@
 
 
 There are basically two types of throwables:
-*Fireball
-*Iceball
+* Fireball
+* Iceball
 
 Each type has different properties like which enemy they hit or how much damage they inflict.
 
 There are two types of enemies:
 
-*Goombas
-*Koopas
+* Goombas
+* Koopas
 
 A snapshot of the game:
 
