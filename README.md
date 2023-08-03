@@ -16,7 +16,7 @@ There are two types of enemies:
 
 A snapshot of the game:
 
-<img src="snapshot.png" alt="Game Image">
+<img src="Snapshot.png" alt="Game Image">
 
 
 The game is written in Python and uses the Pygame game engine.
